@@ -5,6 +5,7 @@ import CounterTwo from './Components/CounterTwo'
 import TodoList from './Components/TodoList'
 import ComplexState from './Components/ComplexState'
 import ConditionalRendering from './Components/ConditionalRendering'
+import ConditionalRendering02 from './Components/ConditionalRendering02'
 function App() {
 
 
@@ -15,10 +16,9 @@ function App() {
 
    
 
-   <ComplexState></ComplexState>
 
 
-   <ConditionalRendering></ConditionalRendering>
+   <ConditionalRendering02> </ConditionalRendering02>
 
 
 
