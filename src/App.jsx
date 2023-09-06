@@ -7,6 +7,8 @@ import ComplexState from './Components/ComplexState'
 import ConditionalRendering from './Components/ConditionalRendering'
 import ConditionalRendering02 from './Components/ConditionalRendering02'
 import ShowComponentAB from './Components/ShowComponentAB'
+import ConditionalRendering03 from './Components/ConditionalRendering03'
+import ConditionalRendering04 from './Components/ConditionalRendering04'
 function App() {
 
 
@@ -23,6 +25,13 @@ function App() {
    <hr></hr>
 
    <ShowComponentAB />
+
+   <hr></hr>
+   <ConditionalRendering03 />
+
+   <hr></hr>
+
+   <ConditionalRendering04 />
 
 
 
