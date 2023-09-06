@@ -1,8 +1,8 @@
 .container{
-  width: 900px;
-  height: 1000px;
+  width: 1200px;
+  min-height: 800px;
   border:1px solid wheat;
-  display: flex;
+
   padding-left: 10%;
   margin-left: 20%;;
 
